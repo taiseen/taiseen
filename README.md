@@ -23,11 +23,26 @@ Here are some ideas to get you started:
 ### 👋 Hey Guys I'm a Software Engineer
 I'm currently working on opensource ideas of my own. Previously worked with many private repository clients now my goal is to promote projects for opensource communtiy.
 
-### 👨‍💻 Tech Stack
+### 👨‍💻 Languages & Tools:
 
 <table>
   <tbody>
     <tr valign="top">
+      <td width="20%" align="center">
+        <span>Visual Studio Code</span><br><br><br>
+        <img height="64px"
+          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+      </td>
+      <td width="20%" align="center">
+        <span>HTML</span><br><br><br>
+        <img height="64px"
+          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+      </td>
+      <td width="20%" align="center">
+        <span>CSS</span><br><br><br>
+        <img height="64px"
+          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+      </td>
       <td width="20%" align="center">
         <span>Javascript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
@@ -43,11 +58,30 @@ I'm currently working on opensource ideas of my own. Previously worked with many
       <td width="20%" align="center">
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-       </td>
-     </tr>
+      </td>
+      <td width="20%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />        
+      </td>
+      <td width="20%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+      </td>
+      <td width="20%" align="center">
+        <span>Git</span><br><br><br>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+      </td>
+      <td width="20%" align="center">
+        <span>GitHub</span><br><br><br>
+        <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+      </td>
+      <td width="20%" align="center">
+        <span>Terminal</span><br><br><br>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+      </td>
+    </tr>
   </tbody>
 </table>
-
 
 <!-- 
 <p align="center">
