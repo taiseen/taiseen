@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 </p>
 
 ![](https://still-brushlands-82734.herokuapp.com/countercheck)
-### 👋 Hey Guys I'm a Software Engineer
-I'm currently working on opensource ideas of my own. Previously worked with many private repository clients now my goal is to promote projects for opensource communtiy.
+### 👋 Hey Guys I'm a Web Devloper...
+I'm currently working on opensource ideas of my own...
 
 ### 👨‍💻 Languages & Tools:
 <table>
