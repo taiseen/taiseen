@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://still-brushlands-82734.herokuapp.com/countercheck)
 -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
 </p>
 
-![](https://still-brushlands-82734.herokuapp.com/countercheck)
+
 ### 👋 Hey Guys I'm a Web Devloper...
 I'm currently working on opensource ideas of my own...
 
@@ -27,7 +28,7 @@ I'm currently working on opensource ideas of my own...
 <table>
   <tbody>
     <tr valign="top">
-      <td width="20%" align="center">
+      <td width="15%" align="center">
         <span>VS Code</span><br><br><br>
         <img height="64px"
           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
