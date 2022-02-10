@@ -1,25 +1,9 @@
-<!--
-**taiseen/taiseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![](https://still-brushlands-82734.herokuapp.com/countercheck)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
-</p>
+<!-- 
+3 May 2021 
+11 Feb 2022
 -->
-![Web Devloper](https://pbs.twimg.com/profile_banners/94860086/1644518069/1500x500)
 
-![Profile views](https://gpvc.arturio.dev/taiseen)  
+![Profile views](https://gpvc.arturio.dev/taiseen)
 
 # Hi, I'm taiseen 👋
 
@@ -27,79 +11,88 @@ I'm a Front End Web Developer who is passionate about making fully responsive we
 
 Skills: HTML / CSS/ JS / React / SASS / Bootstrap / Tailwind
 
-- 🔭 I’m currently working on building Responsive Website 
-- 🌱 I’m currently learning React, Tailwind 
-- 💬 Ask me about Web Devlopment 
-- 📫 How to reach me: taiseen.cse@gmail.com 
-
-## 👨‍💻 Languages & Tools:
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="10%" align="center">
-        <span>VS Code</span><br><br><br>
-        <img height="64px"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-      </td>
-      <td width="10%" align="center">
-        <span>HTML</span><br><br><br>
-        <img height="64px"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-      </td>
-      <td width="10%" align="center">
-        <span>CSS</span><br><br><br>
-        <img height="64px"
-          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-      </td>
-      <td width="10%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="10%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="5%" align="center">
-        <span>GitHub</span><br><br><br>
-        <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-      </td>
-      <td width="3%" align="center">
-        <span>Terminal</span><br><br><br>
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+* 🔭 I’m currently working on building Responsive Website 
+* 🌱 I’m currently learning React, Tailwind 
+* 💬 Ask me about Web Devlopment
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/taiseen) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-taiseen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/taiseen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/taiseen_azam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Taiseen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17874329)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://taiseen.github.io/personal_portfolio/)  
+
+<br/>
+
+
+
+<h2 align="left">👨‍💻 Tools & Languages :</h2>
+<p align="center">
+
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://materializecss.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</p>
+
+
+
+<br/>
+
+
+
+<h2 align="left">🔗 Connect with me:</h2>
+<p align="center">
+<a href="https://fb.com/taiseen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taiseen" height="30" width="40" /></a>
+<a href="https://instagram.com/taiseen_azam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taiseen_azam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-taiseen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-taiseen" height="30" width="40" /></a>
+<a href="https://twitter.com/taiseen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taiseen" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17874329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17874329" height="30" width="40" /></a>
+<a href="https://dev.to/taiseen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="taiseen" height="30" width="40" /></a> 
+</p>
+
+
+<br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiseen)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=taiseen)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=taiseen&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=taiseen&show_icons=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=taiseen)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taiseen)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=taiseen)](https://github.com/ryo-ma/github-profile-trophy)  
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=taiseen)
+
 
 ![GitHub metrics](https://metrics.lecoq.io/taiseen)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taiseen)  
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taiseen)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
-
-<!-- 
-<p align="center">
-  <samp>
-    <br><br>:coffee: Wanna chat? :point_right: @ me on 
-    <a href="https://twitter.com/groverception" target=”_blank”>
-      <img src="https://cdn.svgporn.com/logos/twitter.svg" style="padding-top:10px"  width="20px"></a>
-  </samp>
-</p>
--->
-
-
