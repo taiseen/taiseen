@@ -68,12 +68,12 @@ Skills: HTML / CSS/ JS / React / SASS / Bootstrap / Tailwind
 
 <h2 align="left">🔗 Connect with me:</h2>
 <p align="center">
-<a href="https://fb.com/taiseen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taiseen" height="30" width="40" /></a>
-<a href="https://instagram.com/taiseen_azam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taiseen_azam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-taiseen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-taiseen" height="30" width="40" /></a>
-<a href="https://twitter.com/taiseen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taiseen" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17874329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17874329" height="30" width="40" /></a>
-<a href="https://dev.to/taiseen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="taiseen" height="30" width="40" /></a> 
+<a href="https://fb.com/taiseen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taiseen" height="30" width="40" /></a>
+<a href="https://instagram.com/taiseen_azam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taiseen_azam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-taiseen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-taiseen" height="30" width="40" /></a>
+<a href="https://twitter.com/taiseen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taiseen" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17874329" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17874329" height="30" width="40" /></a>
+<a href="https://dev.to/taiseen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="taiseen" height="30" width="40" /></a> 
 </p>
 
 
@@ -85,7 +85,6 @@ Skills: HTML / CSS/ JS / React / SASS / Bootstrap / Tailwind
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taiseen&show_icons=true)
 
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taiseen)
 
 
@@ -95,4 +94,4 @@ Skills: HTML / CSS/ JS / React / SASS / Bootstrap / Tailwind
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=taiseen)
 
 
-![GitHub metrics](https://metrics.lecoq.io/taiseen)  
+![GitHub metrics](https://metrics.lecoq.io/taiseen)
